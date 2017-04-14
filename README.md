@@ -10,15 +10,17 @@ A professional ASP.NET MVC template for building secure, fast, robust and adapta
 
 The default MVC template that Visual Studio gives you does not make best use of the tools available. It's insecure, slow, and really has a very basic feature list (That's the point of it). ASP.NET MVC Boilerplate provides you with a few more pieces of the puzzle to get you started quicker. It makes liberal use of comments and even gives you a checklist of tasks which you need to perform to make it even better. The main benefits of using this template are:
 
-- Security
-- Performance
-- Search Engine Optimization (SEO)
-- Accessibility
-- Browser Compatibility
-- Resilience and Error Handling
-- Easier Debugging and Performance Testing Tools
-- Patterns and Practices
-- Atom Feed
+Visual Studio 给您的默认MVC模板没有充分利用可用的工具。 它是不安全的，缓慢的，真的有一个非常基本的功能列表（这就是它的重点）。 ASP.NET MVC Boilerplate 为您提供了更多的难题，让您更快地开始。 它自由地使用评论，甚至给你一个你需要执行的任务清单，使其更好。 使用此模板的主要好处是:
+
+- Security 安全
+- Performance 高效
+- Search Engine Optimization (SEO)  搜索引擎优化
+- Accessibility 易接近的
+- Browser Compatibility 浏览器兼容好
+- Resilience and Error Handling 易恢复 和 错误处理
+- Easier Debugging and Performance Testing Tools 调试简单 而且 高效的测试工具
+- Patterns and Practices 模式和实践
+- Atom Feed 
 - Search
 - Social Media Support
 
